@@ -15,6 +15,9 @@
           <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/latihan">Latihan</a>
           </li>
+          <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/latihanEmpat">Latihan 4</a>
+          </li>
         </ul>
     </div>
     </div>
